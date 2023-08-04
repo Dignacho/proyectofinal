@@ -1,48 +1,54 @@
-html{
+html {
     background-color: green;
-  }
-  .primera_parte{
+}
+
+.primera_parte {
     text-align: center;
-  }
-  .titulo{
+}
+
+.titulo {
     color: white;
-  }
-  .nav{
+}
+
+.nav {
     color: white;
-  }
-  .aguita{
+}
+
+.aguita {
     color: rgb(255, 255, 255);
     text-decoration: none;
-  }
-  .tarjeta{
+}
+
+.tarjeta {
     border: 2px solid black;
     text-align: center;
     margin: 20px;
     background-color: white;
-  }
-  .contenedor{
+}
+
+.contenedor {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    margin: 10px 5  0px;
-  }
-  
-  .contenerdor_img{
+    margin: 10px 5 0px;
+}
+
+.contenerdor_img {
     width: 200px;
-  }
-  
-  .contenerdor_img > img {
+}
+
+.contenerdor_img>img {
     width: 100%;
-  }
-  
-  .nombre{
+}
+
+.nombre {
     background-color: red;
     margin-bottom: 0;
     font-size: 30px;
     font-weight: bold;
-  }
-  
-  .titulo{
+}
+
+.titulo {
     text-align: center;
-  }
+}
